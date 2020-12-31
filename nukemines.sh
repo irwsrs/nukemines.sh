@@ -1,2 +1,3 @@
 #!/bin/bash
-find . -name \*.sm -exec sed -i "29,99999s/M/0/g" {} \;
+#Warning: Only ever use in your Autostepper/Songs folder. Uncomment to proceed...
+#find . -name \*.sm -exec sed -i "29,99999s/M/0/g" {} \;
